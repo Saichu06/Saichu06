@@ -45,19 +45,6 @@ const saicharan = {
 
 ---
 
-## 💼 Experience
-
-**🏢 5G Group of Companies** — *Software Engineer Intern* `Dec 2025 – Jan 2026` · Chennai, Onsite  
-→ Built Python analytics pipelines for cloud monitoring and GitLab reporting workflows
-
-**🏢 Dnyx Pvt Ltd** — *Software Engineer Intern* `Aug 2025 – Nov 2025` · Chennai, Remote  
-→ Built REST APIs with Flask + PostgreSQL; developed React/Node.js modules
-
-**🏢 ImagiNet Ventures Pvt Ltd** — *SDE Intern* `May 2025 – Jul 2025` · Chennai, Onsite  
-→ Developed web apps with React, Angular & PHP; contributed to live client projects; manual QA
-
----
-
 ## 🚀 Tech Stack
 
 ### 💬 Languages
