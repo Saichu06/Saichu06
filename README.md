@@ -165,17 +165,7 @@ Centralized portal managing student registrations, resume uploads, faculty dashb
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Saichu06&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -185,14 +175,6 @@ Centralized portal managing student registrations, resume uploads, faculty dashb
 
 </div>
 
----
-
-## 🤝 Volunteering
-
-🌐 **Campus Lead — Open Source Connect** · SRM KTR Campus  
-⚜️ **Bharat Scouts & Guides** · Scout camps, flood relief, survival skills training
-
----
 
 <div align="center">
 
