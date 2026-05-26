@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm A S Saicharan 👋
+# Hey, I'm Saichu 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%7C+React+%7C+Node.js+%7C+Flask;AI+%26+Data+Enthusiast;Oracle+Cloud+%26+AI+Certified+%C3%97+3;300%2B+DSA+Problems+Solved+%F0%9F%9A%80" alt="Typing SVG" />
 
