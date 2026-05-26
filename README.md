@@ -6,19 +6,18 @@
 
 <br/>
 
-🎓 **B.Tech CSE @ SRM Institute of Science and Technology** · CGPA: **9.37 / 10**  
-💻 Full Stack Developer — React · Angular · Node.js · Flask · Java  
-🤖 Exploring AI integration, Cloud Architecture & Deep Learning  
-🏆 Oracle Cloud & AI Certified (×3) · MongoDB Certified Developer  
-🌱 Currently building real-world projects in AI, Cloud & Systems Design
+**B.Tech CSE @ SRM Institute of Science and Technology**  
+Full Stack Developer — React · Angular · Node.js · Flask · Java  
+Exploring AI integration, Cloud Architecture & Deep Learning  
+Currently building real-world projects in AI, Cloud & Systems Design
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saicharan-a-s-191273326/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:assaicharan06@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR_HACKERRANK)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/YOUR_GFG)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saichu_06/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/assaicharan06)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/assaichvn9p)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saichu06)
 
 </div>
@@ -30,16 +29,13 @@
 ```ts
 const saicharan = {
   degree:      "B.Tech CSE @ SRM IST",  cgpa: "9.37/10",
-  roles:       ["Full Stack Developer", "SDE Intern", "AI Enthusiast"],
-  stack:       ["React", "Angular", "Node.js", "Flask", "Java", "Python"],
+  roles:       ["Full Stack Developer", "SDE Intern"],
+  stack:       ["React", "Angular", "Node.js", "Java", "Python"],
   databases:   ["MongoDB", "PostgreSQL", "MySQL", "Oracle"],
-  cloud:       ["Oracle Cloud (OCI)", "Firebase", "Docker"],
-  certified:   ["Oracle AI Foundations", "Oracle Cloud Foundations",
-                "Oracle Data Platform", "MongoDB Developer Associate"],
   achievements:["HackSpark Hackathon Winner 🏆", "Rajyapuraskar Awardee 🏅",
                 "300+ DSA Problems Solved"],
   currentWork: "Apollo Tyres R&D — Deep Learning & Flask (Ongoing)",
-  funFact:     "I won a hackathon AND earned a state-level scout award 🤝"
+  funFact:     "i use clog for debugging and....I hate web hosting man!"
 };
 ```
 
