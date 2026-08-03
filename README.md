@@ -2,14 +2,13 @@
 
 # Hey, I'm Saichu 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%7C+React+%7C+Node.js+%7C+Flask;AI+%26+Data+Enthusiast;Oracle+Cloud+%26+AI+Certified+%C3%97+3;300%2B+DSA+Problems+Solved+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+%2F+Full+Stack+Developer;ASP.NET+Core+%7C+React+%7C+Angular+%7C+Node.js+%7C+Flask;AI+%26+Cloud+Enthusiast;Oracle+%2C+MongoDB+Certified+%C3%97+5" alt="Typing SVG" />
 
 <br/>
 
-**B.Tech CSE @ SRM Institute of Science and Technology**  
-Full Stack Developer — React · Angular · Node.js · Flask · Java  
-Exploring AI integration, Cloud Architecture & Deep Learning  
-Currently building real-world projects in AI, Cloud & Systems Design
+**B.Tech CSE @ SRM Institute of Science and Technology** (CGPA: 9.46/10)  
+Software Engineer Intern — building enterprise CRM/ERP systems, RBAC platforms & AI-powered tools  
+Exploring Cloud Architecture, Deep Learning & Enterprise Application Design
 
 <br/>
 
@@ -28,16 +27,27 @@ Currently building real-world projects in AI, Cloud & Systems Design
 
 ```ts
 const saicharan = {
-  degree:      "B.Tech CSE @ SRM IST",  cgpa: "9.37/10",
-  roles:       ["Full Stack Developer", "SDE Intern"],
-  stack:       ["React", "Angular", "Node.js", "Java", "Python"],
-  databases:   ["MongoDB", "PostgreSQL", "MySQL", "Oracle"],
+  degree:      "B.Tech CSE @ SRM IST",  cgpa: "9.46/10",
+  role:        "Software Engineer Intern @ Pinnsoft Consultancy Services",
+  stack:       ["ASP.NET Core MVC", "React", "Angular", "Node.js", "Flask", "C#"],
+  databases:   ["PostgreSQL", "MongoDB", "MySQL"],
   achievements:["HackSpark Hackathon Winner 🏆", "Rajyapuraskar Awardee 🏅",
-                "300+ DSA Problems Solved"],
-  currentWork: "Apollo Tyres R&D — Deep Learning & Flask (Ongoing)",
+                "Oracle Certified Java SE 17 Developer ☕", "McKinsey Forward Graduate"],
+  currentWork: "Enterprise CRM-ERP integrations with SAP S/4HANA APIs (Ongoing)",
   funFact:     "i use clog for debugging and....I hate web hosting man!"
 };
 ```
+
+---
+
+## 💼 Experience
+
+| Role | Company | Duration |
+|---|---|---|
+| Software Engineer Intern | **Pinnsoft Consultancy Services Pvt. Ltd.** — SAP S/4HANA CRM-ERP integrations | June 2026 – Present |
+| Software Engineer Intern | **EC International** — ASP.NET Core MVC, RBAC, Microsoft Entra ID | June 2026 – July 2026 |
+| Software Engineer Intern | **5G Group Of Companies** — Python analytics pipelines, GitLab reporting | Dec 2025 – Jan 2026 |
+| Software Engineer Intern | **ImagiNet Ventures Pvt Ltd** — React, Angular, PHP, SQL | May 2025 – Jul 2025 |
 
 ---
 
@@ -45,34 +55,33 @@ const saicharan = {
 
 ### 💬 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular_Material-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 ### 🛠️ Backend
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🤖 AI & Data
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -84,19 +93,31 @@ const saicharan = {
 
 ### ☁️ Cloud & DevOps
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
+### 🏗️ CoreForge — Enterprise Application Framework
+`ASP.NET Core MVC` `C#` `PostgreSQL` `Microsoft Entra ID` `RBAC` `Azure`  
+Enterprise application framework with authentication, RBAC, Microsoft Entra ID integration, and reusable components built on Clean Architecture.
+
+---
+
 ### 🚨 Responza AI — Real-Time Disaster Response Platform
 `React` `Flask` `Leaflet` `Hugging Face AI`  
 Real-time disaster monitoring with live alerts, geolocation tracking, and AI-powered emergency insights. Interactive dashboards and scalable backend APIs for incident visualization.
+
+---
+
+### 🧩 WIP — Project Operating System
+`React 19` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui` `Postgres`  
+A developer-first Project OS with agile planning, Kanban boards, documentation, and analytics — built on a modular service-layer architecture for future backend integration.
 
 ---
 
@@ -106,28 +127,9 @@ Web-based digital logic simulator with real-time circuit simulation, AI-assisted
 
 ---
 
-### 🔐 SUAM — Smart User Access Management System
-`Angular` `Node.js` `Angular Material`  
-Enterprise SPA with role-based auth, admin dashboard, async API simulation, and cloud deployment.  
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-blue?style=flat-square)](https://suam-portal.vercel.app) [![Repo](https://img.shields.io/badge/📁_Repo-black?style=flat-square&logo=github)](https://github.com/Saichu06/SUAM_PORTAL)
-
----
-
 ### 🔬 Apollo Tyres R&D — Industrial Project *(Ongoing)*
 `Python` `Pandas` `Deep Learning` `Flask`  
 Automated tyre data analysis workflows using deep learning. Flask tools for data processing, visualization, and predictive analysis.
-
----
-
-### 🏠 WanderLust — Room Rental Platform
-`React` `Node.js` `Express.js` `MongoDB`  
-Full-stack rental listing platform with authentication, booking, and review management. REST APIs and scalable backend architecture.
-
----
-
-### 🎓 Campus Placement Portal *(Faculty Mentored)*
-`PHP` `MySQL` `JSP/Servlets` `HTML/CSS`  
-Centralized portal managing student registrations, resume uploads, faculty dashboards, attendance, and analytics.
 
 ---
 
@@ -135,14 +137,19 @@ Centralized portal managing student registrations, resume uploads, faculty dashb
 
 | 🏅 Achievement | 🏢 Issuer |
 |---|---|
-| Oracle AI Foundations Certified | Oracle |
-| Oracle Cloud Foundations Certified | Oracle |
-| Oracle Data Platform Certified | Oracle |
-| MongoDB Developer Associate Certified | MongoDB University |
+| Oracle Certified Professional: Java SE 17 Developer | Oracle |
+| Oracle Certified Foundations Associate (x4): AI, Cloud, Agentic AI & Data Platform | Oracle |
+| MongoDB Certified Developer Associate | MongoDB University |
 | HackSpark Hackathon Winner 🥇 | BitSathy |
 | Rajyapuraskar Awardee (State Level) 🏅 | Bharat Scouts & Guides |
-| McKinsey Forward Program | McKinsey & Company |
-| 300+ DSA Problems Solved | LeetCode + GFG |
+| McKinsey Forward Program Graduate | McKinsey & Company |
+
+---
+
+## 🤝 Volunteering
+
+- **Campus Lead**, Open Source Connect — Campus lead for KTR campus
+- **Scout Camps**, Bharat Scouts & Guides — Organized and participated in flood relief and survival-skills camps
 
 ---
 
@@ -161,8 +168,6 @@ Centralized portal managing student registrations, resume uploads, faculty dashb
 
 </div>
 
-
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -170,7 +175,6 @@ Centralized portal managing student registrations, resume uploads, faculty dashb
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saichu06&theme=tokyo-night&hide_border=true)](https://github.com/Saichu06)
 
 </div>
-
 
 <div align="center">
 
